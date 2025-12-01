@@ -1,0 +1,14 @@
+:root {
+    --bg_color: #F0EDEE; /* "Platiunum" */
+    --accent: #58A4B0; /* "Pacific Blue" */
+    --text_color: #000;
+    --text_shadow: #555358; /* "Charcoal" */
+}
+html {
+    background-color: var(--bg_color);
+    color: var(--text_color);
+    text-shadow: 2px var(--text_shadow);
+}
+.accent {
+    background-color: var(--accent);
+}

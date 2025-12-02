@@ -7,8 +7,25 @@
 html {
     background-color: var(--bg_color);
     color: var(--text_color);
-    text-shadow: 2px var(--text_shadow);
+    text-shadow: 2px 2px 2px var(--text_shadow);
+}
+body {
+    margin: 0px;
 }
 .accent {
     background-color: var(--accent);
+}
+
+.section {
+    padding: 4px;
+    display: inline-block;
+}
+.heading {
+    background-color: var(--accent);
+    align-self: left;
+    width: 30%;
+}
+.content {
+    align-self: right;
+    width: 70%;
 }

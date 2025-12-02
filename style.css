@@ -38,3 +38,8 @@ body {
 .content p {
     margin: 0px;
 }
+img {
+    display: inline-block;
+    width: 32px;
+    vertical-align: middle;
+}

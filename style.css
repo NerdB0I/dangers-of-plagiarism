@@ -48,5 +48,5 @@ img {
     padding-left: 5px;
     padding-right: 5px;
     text-shadow: none;
-    border-top: 4px solid var(--text_color)
+    border-top: 4px solid var(--text_color);
 }
